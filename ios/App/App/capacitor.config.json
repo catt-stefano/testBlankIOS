@@ -1,0 +1,6 @@
+{
+	"appId": "com.mytest.isblank",
+	"appName": "testBlankIOS",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
